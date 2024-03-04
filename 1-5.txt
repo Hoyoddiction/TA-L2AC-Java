@@ -1,2 +1,5 @@
-O()
-0()
+O(1)
+O(n)
+O(log n), Binary Search
+O(n^2) quick sort
+O(n^2), Bubble Sort
